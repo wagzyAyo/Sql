@@ -9,5 +9,3 @@ CREATE TABLE users
     birthday DATE;
     active BOOL
 };
-
-
